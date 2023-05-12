@@ -6,7 +6,7 @@ subtitle: <a href='#'>National Technical University of Athens</a>.
 
 profile:
   align: right
-  image: img/photo_2.png
+  image: photo_2.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
